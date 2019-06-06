@@ -1,0 +1,8 @@
+prefix=/home/andrestoga/Dropbox/ros/robotics-course-columbia/install
+
+Name: project_2
+Description: Description of project_2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/andrestoga/Dropbox/ros/robotics-course-columbia/install/lib 
+Requires: 

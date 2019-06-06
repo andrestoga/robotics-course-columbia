@@ -1,0 +1,8 @@
+prefix=/home/andrestoga/Dropbox/ros/robotics-course-columbia/install
+
+Name: forward_kinematics
+Description: Description of forward_kinematics
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/andrestoga/Dropbox/ros/robotics-course-columbia/install/lib 
+Requires: rospy sensor_msgs tf urdfdom_py

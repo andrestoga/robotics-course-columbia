@@ -1,0 +1,8 @@
+prefix=/home/andrestoga/Dropbox/ros/robotics-course-columbia/install
+
+Name: project_1
+Description: Description of project_1
+Version: 0.0.0
+Cflags: -I/home/andrestoga/Dropbox/ros/robotics-course-columbia/install/include
+Libs: -L/home/andrestoga/Dropbox/ros/robotics-course-columbia/install/lib 
+Requires: rospy message_runtime

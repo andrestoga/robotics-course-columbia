@@ -1,0 +1,8 @@
+prefix=/home/andrestoga/Dropbox/ros/robotics-course-columbia/install
+
+Name: robot_sim
+Description: Description of robot_sim
+Version: 0.0.0
+Cflags: -I/home/andrestoga/Dropbox/ros/robotics-course-columbia/install/include
+Libs: -L/home/andrestoga/Dropbox/ros/robotics-course-columbia/install/lib -lrobot_sim
+Requires: roscpp sensor_msgs urdf

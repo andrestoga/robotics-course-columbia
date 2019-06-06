@@ -1,0 +1,2 @@
+project_1:project_2:project_3/forward_kinematics:project_3/lwr_robot/lwr_defs:project_3/robot_mover:project_3/robot_sim
+-DCATKIN_DEVEL_PREFIX=/home/andrestoga/Dropbox/ros/robotics-course-columbia/devel -DCMAKE_INSTALL_PREFIX=/home/andrestoga/Dropbox/ros/robotics-course-columbia/install -G Unix Makefiles

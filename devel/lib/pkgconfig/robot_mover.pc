@@ -1,0 +1,8 @@
+prefix=/home/andrestoga/Dropbox/ros/robotics-course-columbia/devel
+
+Name: robot_mover
+Description: Description of robot_mover
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/andrestoga/Dropbox/ros/robotics-course-columbia/devel/lib 
+Requires: 
